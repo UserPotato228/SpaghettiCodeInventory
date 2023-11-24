@@ -1,0 +1,8 @@
+C:\Users\PotatoPc\source\repos\TextGamev1\TextGamev1\bin\Debug\TextGamev1.exe.config
+C:\Users\PotatoPc\source\repos\TextGamev1\TextGamev1\bin\Debug\TextGamev1.exe
+C:\Users\PotatoPc\source\repos\TextGamev1\TextGamev1\bin\Debug\TextGamev1.pdb
+C:\Users\PotatoPc\source\repos\TextGamev1\TextGamev1\obj\Debug\TextGamev1.csproj.AssemblyReference.cache
+C:\Users\PotatoPc\source\repos\TextGamev1\TextGamev1\obj\Debug\TextGamev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PotatoPc\source\repos\TextGamev1\TextGamev1\obj\Debug\TextGamev1.csproj.CoreCompileInputs.cache
+C:\Users\PotatoPc\source\repos\TextGamev1\TextGamev1\obj\Debug\TextGamev1.exe
+C:\Users\PotatoPc\source\repos\TextGamev1\TextGamev1\obj\Debug\TextGamev1.pdb
